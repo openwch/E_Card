@@ -5,7 +5,7 @@ Open source application based on RISC-V MCU CH32V208 electronic card
 在最近举办的RISC-V中国峰会2022南京分会上，沁恒微电子给每个来到现场的参会者们发放了一个电子胸牌"E_Card"。以展示参会者的基本信息，同时向参会者展示大会总议程、当前正在进行议程等信息，并实现抽奖、投票等现场互动操作。
 
 <p align="center">
-  <img src="ecard.png">
+  <img src="ecard.jpg">
 </p>
 
 ## 1.1 功能
