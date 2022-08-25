@@ -37,7 +37,7 @@ Open source application based on RISC-V MCU CH32V208 electronic card
 
 **hardware:** 该目录包含E_Card原理图；
 
-**tools:**外置Flash中数据生成下载相关的工具。
+**tools:** 外置Flash中数据生成下载相关的工具。
 
 # 2.软件开发
 
