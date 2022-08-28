@@ -10,10 +10,10 @@
 
 /******************************************************************************/
 /* 头文件包含 */
-#include "HAL.h"
-#include "string.h"
 #include <LCD/app_lcd.h>
 #include <RTC/app_rtc.h>
+#include "HAL.h"
+#include "string.h"
 
 
 tmosTaskID halTaskID;

@@ -10,21 +10,21 @@
 
 /******************************************************************************/
 /* 头文件包含 */
+#include <BLE/lwns_adapter_blemesh_mac.h>
+#include <BLE/lwns_name_tag.h>
+#include <BLE/peripheral.h>
+#include <Debug/debug.h>
+#include <hw_config.h>
+#include <LCD/app_lcd.h>
+#include <QRcode/app_QRcode.h>
+#include <RTC/app_rtc.h>
+#include <SPIFLASH/spi_flash.h>
+#include <TFDB/tinyflashdb.h>
+#include <usb_lib.h>
+#include <usb_pwr.h>
 #include "CONFIG.h"
 #include "HAL.h"
-#include "Debug/debug.h"
-#include "BLE/peripheral.h"
-#include "QRcode/app_QRcode.h"
-#include "LCD/app_lcd.h"
-#include "SPIFLASH/spi_flash.h"
-#include "BLE/lwns_adapter_blemesh_mac.h"
-#include "BLE/lwns_name_tag.h"
-#include "TFDB/tinyflashdb.h"
-#include "RTC/app_rtc.h"
-
 #include "usb_lib.h"
-#include "hw_config.h"
-#include "usb_pwr.h"
 /* Global define */
 
 /* Global Variable */
